@@ -4,7 +4,7 @@
 # **Code Alpha Machine Learning Internship Projects**
 Welcome to my repository! In this repository, I will upload the source code of machine learning projects that I complete during my Code Alpha internship.
 
-![CodeAlpha InfoTech Machine Learning Engineer Internship Letter Offer Letter](https://github.com/user-attachments/assets/3155bbd5-1f85-43a2-b5be-6b64668f8fac)
+![CodeAlpha InfoTech Machine Learning Engineer Internship Letter Offer Letter]()
 
 ## **Projects Overview**
 
